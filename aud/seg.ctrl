@@ -1,0 +1,14 @@
+windowSize int 200
+waveType int 5
+winScaleFactor int 8
+gamma float 0.001
+fftOrder 0
+fftSize int 0
+frameAdvanceSamples int 80
+medianOrder int 1
+thresEnergy float 0.3
+thresZero float 0.0
+thresSpecFlatness float 0.0
+samplingRate int 16000
+preemphasis float 0.95
+preemphasisDelay int 1
